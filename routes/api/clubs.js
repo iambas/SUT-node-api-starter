@@ -1,5 +1,5 @@
 const router = require('express').Router();
-const Player = require('../../models/player');
+const Club = require('../../models/club');
 
 router.get('/clubs', function(req, res) {
   res.json({message: 'GET /clubs'});
