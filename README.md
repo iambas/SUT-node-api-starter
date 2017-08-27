@@ -2,6 +2,8 @@
 
 Node API Starter Project for SUT
 
+Presentation : [Basic RESTful API with Node.js and MongoDB](https://speakerdeck.com/phonbopit/basic-restful-api-with-node-dot-js-and-mongodb)
+
 ## Usage
 
 
